@@ -34,7 +34,7 @@ I'm always eager to learn and grow. Whether it's a challenging coding problem, n
 
 ## 🎉 Fun Anime Fact
 
-![Anime GIF](https://i.pinimg.com/originals/ee/a8/72/eea872a419d360c04400a65a973fe5fa.gif)
+![Anime GIF](https://i.pinimg.com/originals/2d/2d/81/2d2d81b7042e6f915ba384816de20acd.gif)
 
 Did you know that anime like *Astro Boy* and *Speed Racer* date back to the '60s? I've watched tons of old-school and modern anime, so feel free to drop recommendations or discuss the latest episodes!
 
