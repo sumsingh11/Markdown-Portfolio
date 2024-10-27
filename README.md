@@ -48,3 +48,8 @@ Did you know that anime like *Astro Boy* and *Speed Racer* date back to the '60s
 
 Feel free to connect, collaborate, learn or chat. I’m always open to meeting new people and learning new things. 
 ## Arigatto 😊
+
+## Check Out My Projects
+Visit my [Projects Page](https://github.com/sumsingh11/sumsingh11/blob/main/projects) to check out my work!
+
+To get in touch! [Contact Me](https://github.com/sumsingh11/sumsingh11/blob/main/contacts)
