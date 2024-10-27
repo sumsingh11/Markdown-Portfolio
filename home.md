@@ -1,4 +1,4 @@
-## mushiMushi 👋
+# mushiMushi 👋
 
 ![Header](https://media1.tenor.com/m/aET-iakaCDMAAAAC/great-teacher-onizuka-gto.gif)
 
@@ -10,10 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Automation Developer currently ho
 - 🌱 **Currently Learning:** Diving deep into the world of front-end and back-end development to become a full-stack web developer in the coming time.
 - 👯 **Looking to Collaborate:** Open to collaborate on Web Development and Automation projects. I enjoy building and solving things.
 - 💬 **Ask Me About:** Anime! I've watched series dating back to the late '70s and would love to chat about classic and modern favourites.
-- 📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/sumit-singh-a9932012a/)
-
 - ⚡ **Fun Fact:** I’m currently learning to code while binge-watching anime. It's all about balance, right?
-
 
 ![Anime Coding](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
@@ -36,14 +33,16 @@ Welcome to my GitHub profile! I'm a passionate Automation Developer currently ho
 
 ## 🤔 I’m looking for help with...
 
-I'm always eager to learn and grow. Whether it's a challenging coding problem, new development techniques, or even cool automation tricks, I'm open to learning anytime.
+I'm always eager to learn and grow. Whether it's a challenging coding problem, new development techniques, or even cool automation tricks, I'm open to learn new things anytime.
 
 Feel free to connect, collaborate, learn or chat. I’m always open to meeting new people and learning new things. 
-## Arigatto 😊
+  ## Arigatto 😊
+--
+  
 
 ![Anime GIF](https://i.pinimg.com/originals/2d/2d/81/2d2d81b7042e6f915ba384816de20acd.gif)
 
 ### Check Out My Projects
-Visit my [Projects Page](projects.md) to check out my work!
+Visit my [Projects Page](https://github.com/sumsingh11/Markdown-Portfolio/blob/main/projects.md) to check out my work!
 
-To get in touch! [Contact Me](contacts.md)
+To get in touch! [Contact Me](https://github.com/sumsingh11/Markdown-Portfolio/blob/main/contacts.md)
