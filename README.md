@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Automation Developer currently ho
 ## 🚀 About Me
 
 - 🔭 **Currently Studying:** Pursuing a Web Development course at [Humber College](https://www.humber.ca/).
-- 🌱 **Currently Learning:** Diving deep into the world of front-end and back-end development to become a full-stack web developer in coming time.
+- 🌱 **Currently Learning:** Diving deep into the world of front-end and back-end development to become a full-stack web developer in the coming time.
 - 👯 **Looking to Collaborate:** Open to collaborating on Web Development and Automation projects. I enjoy building and solving things.
 - 💬 **Ask Me About:** Anime! I've watched series dating back to the late '70s and would love to chat about classic and modern favourites.
 - 📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/sumit-singh-a9932012a/)
