@@ -14,9 +14,11 @@ Explore some of the projects I've been working on. These showcase my skills in w
 ## 5. [Front-End Web Development](https://github.com/sumsingh11/HTTP-5122-0NA)
    - **Description:** My directory that focuses on my ongoing Javascripts assignments.
 
+
+----
 Feel free to explore the projects and provide feedback or suggestions.
 
-### Back to [Home Page](index.md)
-### [Contact Me](contact.md)
+### Back to [Home Page](https://github.com/sumsingh11/Markdown-Portfolio/blob/main/home.md)
+### [Contact Me](https://github.com/sumsingh11/Markdown-Portfolio/blob/main/contacts.md)
 
 
